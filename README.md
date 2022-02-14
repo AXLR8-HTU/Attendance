@@ -13,7 +13,7 @@ After Cloning this Repo
 
 5. Set remote origin 
 
-6. Push The Repository Back to its Origin ie Bheny/Attendance
+6. Push The Repository Back to its Origin ie AXLR8/Attendance
 
 ### NOTE: 
 	For Help You can google how to do the above. Lets see how your research ability can be Useful
